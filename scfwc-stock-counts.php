@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Product stock counts for Woocommerce
+ * Plugin Name: Product stock count progress bar for Woocommerce
  * Description: This plugin will show product stock counts on the shop page and in product single page.
  * Plugin URI: https://codewithmehedi.com/
  * Version: 1.1.1
@@ -17,8 +17,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
-
-
 
 /**
  * Check if WooCommerce is active
