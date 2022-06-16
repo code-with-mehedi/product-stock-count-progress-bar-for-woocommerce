@@ -1,6 +1,6 @@
 === Product stock count progress bar for Woocommerce ===
 Contributors: mehedi_csit
-Tags: stock, stock-progress-bar, product-stock-count-progress-bar, product-stock-count-progress-bar-for-woocommerce
+Tags: stock, stock progress bar, product stock count progress bar, product stock count progress bar for woocommerce
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ANJRBFTXBUE8Q&source=url
 Requires at least: 5.4
 Tested up to: 6.0
@@ -39,7 +39,7 @@ Product stock count progress bar for WooCommerce is a simple lightweight plugin 
 
 
 ## Privacy Policy 
-Stock Status Bar for Woocommerce uses [Appsero](https://appsero.com) SDK to collect some telemetry data upon user's confirmation. This helps us to troubleshoot problems faster & make product improvements.
+Product stock count progress bar for WooCommerce uses [Appsero](https://appsero.com) SDK to collect some telemetry data upon user's confirmation. This helps us to troubleshoot problems faster & make product improvements.
 
 Appsero SDK **does not gather any data by default.** The SDK only starts gathering basic telemetry data **when a user allows it via the admin notice**. We collect the data to ensure a great user experience for all our users. 
 
@@ -60,6 +60,11 @@ Ans: Product stock progess bar will show in shop page, single product page and c
 
 == Screenshots ==
 1. Screenshot one
+2. Screenshot two
+3. Screenshot three
+4. Screenshot four
+5. Screenshot five
+6. Screenshot six
 
 == Changelog ==
 
