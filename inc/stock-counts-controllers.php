@@ -49,7 +49,7 @@ function scfwc_show_stock_shop_page() {
 }
 
 add_action( 'woocommerce_shop_loop_item_title', 'scfwc_show_stock_shop_page', 10 );
-
+return;
 // phpcs:ignore
 
 /**
@@ -112,4 +112,3 @@ add_action( 'woocommerce_shop_loop_item_title', 'scfwc_show_stock_shop_page', 10
 // 	}
 // }
 // add_action( 'woocommerce_before_single_variation', 'scfwc_show_stock_single_variation_product', 10 );
-
